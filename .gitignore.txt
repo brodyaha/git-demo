@@ -1,0 +1,48 @@
+Last login: Sun Apr  9 12:50:50 on ttys000
+vitalijsalo@MacBook-Air-Vitalij ~ % cd Desctop/Repository
+cd: no such file or directory: Desctop/Repository
+vitalijsalo@MacBook-Air-Vitalij ~ % cd Decktop
+cd: no such file or directory: Decktop
+vitalijsalo@MacBook-Air-Vitalij ~ % ls
+Applications			Movies
+Desktop				Music
+Documents			Pictures
+Downloads			Public
+IdeaProjects			java_error_in_idea_1427.log
+Library
+vitalijsalo@MacBook-Air-Vitalij ~ % cd Desktop
+vitalijsalo@MacBook-Air-Vitalij Desktop % cd Repository
+vitalijsalo@MacBook-Air-Vitalij Repository % ls
+git-demo
+vitalijsalo@MacBook-Air-Vitalij Repository % cd git-demo
+vitalijsalo@MacBook-Air-Vitalij git-demo % touch .gitignore
+vitalijsalo@MacBook-Air-Vitalij git-demo % nano .gitignore
+
+
+
+
+
+  UW PICO 5.09                    File: .gitignore                    Modified  
+
+.DS_Store                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
